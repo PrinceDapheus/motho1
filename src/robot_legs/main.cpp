@@ -2,18 +2,14 @@
 using namespace std;
 
 
-
-int main(){
-
-string name = "Billionare";
-
-printf("%s\n" , name.c_str());
+int main (){
 
 
-printf("billy");
+    string name = "Billionare status";
 
-
+    printf("%s" ,name.c_str() );
 
 
     return 0;
+
 }
